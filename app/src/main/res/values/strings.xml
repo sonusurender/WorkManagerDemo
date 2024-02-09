@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManagerExample</string>
+    <string name="channel_name">Background Job</string>
+    <string name="channel_description">Channel will be used to run task in background.</string>
+</resources>
