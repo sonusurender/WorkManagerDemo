@@ -12,7 +12,7 @@ Explained the following things:
 For detailed explanation of code, [visit here](https://www.androhub.com/scheduling-tasks-with-workmanager/).
 
 # Video Demo
-👉 Watch it <a href="[https://youtu.be/Y59P_6r1Njw](https://youtu.be/Y59P_6r1Njw)">here</a>.
+👉 Watch it <a href="https://youtu.be/Y59P_6r1Njw">here</a>.
 <br>
 
 [![Watch demo](http://i3.ytimg.com/vi/Y59P_6r1Njw/hqdefault.jpg)](https://youtu.be/Y59P_6r1Njw)
